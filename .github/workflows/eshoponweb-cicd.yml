@@ -8,7 +8,9 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-lpf
   LOCATION: eastasia
   TEMPLATE-FILE: infra/webapp.bicep
+  ClientID: 0df0519e-7028-4269-8632-3e8d4333f79c
   SUBSCRIPTION-ID: 3174d0d3-bea5-4dbf-8682-7df9aba95d1e
+  TenantID: 8eed0c17-3b1d-4f00-a9da-335564dcd6b9
   WEBAPP-NAME: eshoponweb-webapp-lpf
 
 
